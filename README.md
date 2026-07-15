@@ -2,8 +2,6 @@
 
 I'm a **productivity hacker for the AI age**, building practical tools that remove friction from everyday work.
 
-I focus on useful, hands-on projects at the intersection of AI, productivity, software, and hardware.
-
 ## Projects
 
 ### [MeetingNotes](https://github.com/Z060049/MeetingNotes)
