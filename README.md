@@ -1,4 +1,4 @@
-# Hi, I'm Joe 👋
+# Hi, 👋
 
 I'm a **productivity hacker for the AI age**, building practical tools that remove friction from everyday work.
 
